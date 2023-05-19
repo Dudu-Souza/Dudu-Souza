@@ -28,7 +28,7 @@
 
   <a href="#" alt="Gmail">
 
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=dudurochasouza14@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[dudurochasouza14@gmail.com](https://criarmeulink.com.br/u/1684535300)" /></a>
 
 </p>  
 
