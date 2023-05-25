@@ -6,7 +6,7 @@
 
 💬 Me mande uma mensagem:
 
-Whatsapp: (18) 99694-6798 <br>
+WhatsApp: (18) 99694-6798 <br>
 Email: dudurochasouza14@gmail.com <br>
 Instagram: @dudu_souza_16
 
