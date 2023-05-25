@@ -1,37 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Dudu">
+## 💜 Olá, meu nome é <strong>Eduardo Rocha de Souza.</strong>
 
-<p align="left"> 
+> Tenho 16 anos, sou apaixonado por tecnologia. Atualmente estou cursando o curso técnico de Desenvolvimento de Sistemas no SENAI Presidente Prudente.
 
-  Olá meu nome é Eduardo Rocha de Souza, tenho 16 anos e sou apaixonado por tecnologia. Atualmente sou estudante do <strong>Curso Técnico em Desenvolvimento de Sistema</strong> pelo Senai em Presidente Prudente.
+🔭 Atualmente, estou trabalhando em um game com html, css, js e bootstrap.
 
-</p>
+💬 Me mande uma mensagem:
 
-<p align="left">
+Whatsapp: (18)99694-6798
+Email: dudurochasouza14@gmail.com
+Instagram: @dudu_souza_16
 
-  🦄 Linguagens: <strong>HTML, CSS, JS.</strong>
+----
 
-</p>
+## 🚀 Minhas Skills
 
-<p align="left">
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
-  💼 Ferramentas: <strong>Vs Code, GIT.</strong>
+---
 
-</p>
-
-<p align="left">
-
-  💌 Entre em contato comigo: ⤵️
-
-</p>
-
-<p align="left">
-
-  <a href="#" alt="Gmail">
-
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[dudurochasouza14@gmail.com](https://criarmeulink.com.br/u/1684535300)" /></a>
-
-</p>  
-
-
-
-
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dudu-Souza&show_icons=true)
