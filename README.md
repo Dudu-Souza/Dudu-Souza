@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Eduardo Rocha de Souza.</strong>
 
-> Tenho 16 anos, sou apaixonado por tecnologia. Atualmente estou cursando o curso técnico de Desenvolvimento de Sistemas no SENAI Presidente Prudente e estou fazendo curso de Desenvolvimento Web Completo na Udemy.
+> Tenho 16 anos, sou apaixonado por tecnologia. Atualmente estou cursando técnico em Desenvolvimento de Sistemas no SENAI Presidente Prudente e também estou fazendo curso de Desenvolvimento Web Completo e o curso completo do Desenvolvedor NodeJS e MongoDB na Udemy.
 
 🔭 Atualmente, estou trabalhando em um game com html, css, js e bootstrap.
 
