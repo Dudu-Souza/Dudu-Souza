@@ -2,7 +2,7 @@
 
 > Tenho 16 anos, sou apaixonado por tecnologia. Atualmente estou cursando técnico em Desenvolvimento de Sistemas no SENAI Presidente Prudente e também estou fazendo curso de Desenvolvimento Web Completo e o curso completo do Desenvolvedor NodeJS e MongoDB na Udemy.
 
-🔭 Atualmente, estou trabalhando em um game com html, css, js e bootstrap.
+🔭 Atualmente, estou desenvolvendo uma loja de produtos com React, utilizando a api do Mercado Livre.
 
 💬 Me mande uma mensagem:
 
