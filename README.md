@@ -22,3 +22,12 @@ Instagram: @dudu_souza_16
   <img align="center" alt="dudu-bootstrap" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg">  
   <img align="center" alt="dudu-php" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg">
 </div>
+
+<div align="center">
+  <a href="https://github.com/Dudu-Souza">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudu-Souza&theme=omni&show_icons=true" />
+  </a>
+  <a href="https://github.com/Dudu-Souza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudu-Souza&layout=compact&theme=react"/>
+  </a>
+</div>
