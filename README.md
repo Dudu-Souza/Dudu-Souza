@@ -14,7 +14,7 @@ Instagram: @dudu_souza_16
 
 ## 🚀 Minhas Skills
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="dudu-node" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />       
   <img align="center" alt="dudu-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
   <img align="center" alt="dudu-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
