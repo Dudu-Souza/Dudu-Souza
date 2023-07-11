@@ -14,9 +14,11 @@ Instagram: @dudu_souza_16
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Php"/></code>
+<div style="display: inline_block"><br>
+  <img align="center" alt="dudu-node" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />       
+  <img align="center" alt="dudu-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="dudu-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
+  <img align="center" alt="dudu-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
+  <img align="center" alt="dudu-bootstrap" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg">  
+  <img align="center" alt="dudu-php" height="35" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg">
+</div>
